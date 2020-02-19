@@ -1,15 +1,15 @@
 export default {
   colors: {
     background: '#ffffff',
-    text: '#121212',
-    primary: '#121212',
-    secondary: '#e9e9e9',
+    text: '#2E008B',
+    primary: '#2E008B',
+    secondary: '#64A70B',
     tertiary: '#f3f3f3',
     highlight: '#5b8bf7',
   },
   fonts: {
     body:
-      '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+      '-apple-system, BlinkMacSystemFont, Avenir, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
   },
   sizes: {
     maxWidth: '1050px',

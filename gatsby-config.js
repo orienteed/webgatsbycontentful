@@ -17,10 +17,10 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'GCN',
+    title: 'Orienteed E-commerce Consultancy',
     description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-    siteUrl: 'https://gcn.netlify.com',
+      'We develop digital commerce envisioned by leading brands',
+    siteUrl: 'https://orienteed-web.netlify.com',
     image: '/images/share.jpg',
     menuLinks: [
       {
