@@ -82,8 +82,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'GCN',
-        short_name: 'GCN',
+        name: 'Orienteed',
+        short_name: 'Orienteed e-commerce consultancy',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#ffffff',
