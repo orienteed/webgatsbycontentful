@@ -32,6 +32,10 @@ module.exports = {
         slug: '/about/',
       },
       {
+        name: 'Technologies',
+        slug: '/technologies/',
+      },
+      {
         name: 'Contact',
         slug: '/contact/',
       },
@@ -82,8 +86,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Orienteed',
-        short_name: 'Orienteed e-commerce consultancy',
+        name: 'Orienteed e-commerce consultancy',
+        short_name: 'Orienteed',
         start_url: '/',
         background_color: '#ffffff',
         theme_color: '#ffffff',
